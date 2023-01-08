@@ -1,0 +1,22 @@
+.front{
+  color:yellow;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: x-large;
+}
+.home{
+  color:rgb(238, 9, 181);
+}
+.tech{
+  color:rgb(226, 43, 128);
+  text-align: center;
+}
+.more{
+  text-align: center;
+  color:yellow;
+}
+a:link{
+  text-decoration: none;
+}
+a:hover{
+  color: blueviolet;
+}
